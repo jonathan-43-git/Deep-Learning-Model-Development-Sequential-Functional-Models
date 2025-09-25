@@ -1,1 +1,5 @@
-# -Deep-Learning-Model-Development-Sequential-Functional-Models-
+# Deep-Learning-Model-Development-Sequential-Functional-Models
+
+This individual class project aims to predict team productivity scores in a garment factory using 4 different deep learning models. As a comparative study, the project explores and evaluates the performance of both baseline and modified Sequential and Functional models from Keras/TensorFlow. The entire process begins with comprehensive data preprocessing, including handling missing values and feature normalization, before training 4 different deep learning model variants.  
+
+The performance of each model is evaluated carefully using regression metrics such as MAE, MSE, and R² to identify the best-performing architecture. This intensive analysis determined which model architecture was most suitable for the prediction task, with the entire analytical workflow documented within a jupyter notebook. The findings from this project are crucial for understanding the strengths of different deep learning architectures in a real-world predictive scenario. However, it's important to note that the model's performance is also highly dependent on the quality and characteristics of the input data, providing a solid reference for similar predictive challenges in the future.
